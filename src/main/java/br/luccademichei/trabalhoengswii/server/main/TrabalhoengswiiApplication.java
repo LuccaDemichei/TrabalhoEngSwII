@@ -1,4 +1,4 @@
-package br.luccademichei.trabalhoengswii;
+package br.luccademichei.trabalhoengswii.server.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
